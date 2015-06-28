@@ -13,6 +13,8 @@ files have been submitted for easy fabrication direct to OSHPark
 without any DRC issues. Also included PDF schematic/layout and a 3D image
 model of the board to be fabbed.
 
+Order the board direct from OSHPark here: https://oshpark.com/shared_projects/csoqiSJ5
+
 SNES-Tap v1.0 Rev A
 ---------------------------------------------------------------------
 This inital version of the board design files describes a simple adapter
@@ -21,6 +23,8 @@ board that converts the SNES bottom expansion port interface to a standard
 to the data bus and the peripheral address bus of the SNES. The interface also
 gives you access to analog audio channels, the reset, the interrupt pin and a
 couple of clocks.
+
+Order the board direct from OSHPark here: https://oshpark.com/shared_projects/HncHwJox
 
 Components (Connectors)
 ---------------------------------------------------------------------
