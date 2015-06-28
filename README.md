@@ -1,7 +1,19 @@
 # snes-tap
 This project includes Altium design files for an SNES tapping board.
 
-Snes-tap V1.0
+Snes-tap V1.1 Rev B
+---------------------------------------------------------------------
+This is the second major release of this project. Drastic changes have
+been made to allow for on board voltage translation support. The board
+geometries have been modified to accommodate the active components and 
+to interface to a 40-PIN 100mil header (instead of 30-pin in Rev A). 
+The pinout of this header conforms with the GPIO 40-pin header of the 
+Terasic DE0-Nano and DE0-Nano-SoC FPGA dev boards. Zipped up gerber/drill 
+files have been submitted for easy fabrication direct to OSHPark 
+without any DRC issues. Also included PDF schematic/layout and a 3D image
+model of the board to be fabbed.
+
+Snes-tap V1.0 Rev A
 ---------------------------------------------------------------------
 This inital version of the board design files describes a simple adapter
 board that converts the SNES bottom expansion port interface to a standard
@@ -20,13 +32,14 @@ variant we use the MEC2-30-01-L-DV and saw/dremel off pins 29-60. The footprint 
 is modified to adapt to this new 28-pin footprint.
 
 The second connector is a simple 30-pin 100 mil IDC header. In this design we used the
-SAMTEC TSM-114-01-L-DV.
+SAMTEC TSM-114-01-L-DV. (REV A only)
+
+On Rev B the pin header will be 40-pin 100 mil IDC. The part number is TBD.
 
 
 TODO:
 --------
-The next version of the snes-tap will include a 5v to 3.3v logic translator for
-easy interfacing to modern hardware chips.
+Assemble the board, fix issues and incorporate fixed into v1.2 Rev C
 
 -Evan
 
