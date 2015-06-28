@@ -1,7 +1,7 @@
 # snes-tap
 This project includes Altium design files for an SNES tapping board.
 
-Snes-tap V1.1 Rev B
+Snes-tap V1.2 Rev B
 ---------------------------------------------------------------------
 This is the second major release of this project. Drastic changes have
 been made to allow for on board voltage translation support. The board
@@ -23,7 +23,7 @@ gives you access to analog audio channels, the reset, the interrupt pin and a
 couple of clocks.
 
 Components (Connectors)
------------
+---------------------------------------------------------------------
 There are two connectors used in this board. The connector which plugs into the SNES
 expansion port is a rare 2.0mm pitch micro edge connector. There aren't many vendors
 which create this connector type. On this board we use the SAMTEC MEC2-30-01-L-DV.
@@ -39,7 +39,7 @@ On Rev B the pin header will be 40-pin 100 mil IDC. The part number is TBD.
 
 TODO:
 --------
-Assemble the board, fix issues and incorporate fixed into v1.2 Rev C
+Assemble the board, fix issues and incorporate fixed into v1.4 Rev C
 
 -Evan
 
