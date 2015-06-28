@@ -1,5 +1,5 @@
 # snes-tap
-This project includes Altium design files for an SNES tapping board.
+This project includes Altium design files for an SNES expansion port tapping board to enable FPGA snooping of the SNES console.
 
 Snes-tap V1.2 Rev B
 ---------------------------------------------------------------------
