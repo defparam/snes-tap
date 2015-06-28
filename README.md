@@ -1,7 +1,7 @@
-# snes-tap
+# SNES-Tap
 This project includes Altium design files for an SNES expansion port tapping board to enable FPGA snooping of the SNES console.
 
-Snes-tap V1.2 Rev B
+SNES-Tap v1.2 Rev B
 ---------------------------------------------------------------------
 This is the second major release of this project. Drastic changes have
 been made to allow for on board voltage translation support. The board
@@ -13,7 +13,7 @@ files have been submitted for easy fabrication direct to OSHPark
 without any DRC issues. Also included PDF schematic/layout and a 3D image
 model of the board to be fabbed.
 
-Snes-tap V1.0 Rev A
+SNES-Tap v1.0 Rev A
 ---------------------------------------------------------------------
 This inital version of the board design files describes a simple adapter
 board that converts the SNES bottom expansion port interface to a standard
