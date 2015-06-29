@@ -38,7 +38,7 @@ is modified to adapt to this new 28-pin footprint.
 The second connector is a simple 30-pin 100 mil IDC header. In this design we used the
 SAMTEC TSM-114-01-L-DV. (REV A only)
 
-On Rev B the pin header will be 40-pin 100 mil IDC. The part number is TBD.
+On Rev B the pin header will be 40-pin 100 mil IDC header. The part number is SAMTEC HTST-120-01-T-DV
 
 
 TODO:
